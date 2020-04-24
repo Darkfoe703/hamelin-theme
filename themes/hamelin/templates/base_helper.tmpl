@@ -55,7 +55,7 @@ lang="${lang}">
     % endif
 
     %if prevlink:
-        <link rel="prev" href="${prevlink}" type="text/html">
+        <button><link rel="prev" href="${prevlink}" type="text/html"></button>
     %endif
     %if nextlink:
         <link rel="next" href="${nextlink}" type="text/html">
@@ -93,6 +93,7 @@ lang="${lang}">
     <!-- Webfonts -->
     <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
 </%def>
+
 
 <%def name="html_feedlinks()">
     %if rss_link:
