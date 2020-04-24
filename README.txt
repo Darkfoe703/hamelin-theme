@@ -1,17 +1,4 @@
-This folder contains the source used to generate a static site using Nikola.
+Creación del tema 'Hamelin', para utilizar con Nikola.
 
-Installation and documentation at https://getnikola.com/
+Para más información consultar https://getnikola.com/
 
-Configuration file for the site is ``conf.py``.
-
-To build the site::
-
-    nikola build
-
-To see it::
-
-    nikola serve -b
-
-To check all available commands::
-
-    nikola help

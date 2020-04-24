@@ -6,6 +6,7 @@
 *.bak
 *.dir
 *.dat
+*.py
 
 
 # Carpetas a ignorar
