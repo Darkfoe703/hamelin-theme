@@ -1,0 +1,15 @@
+# Archivos a ignorar en el proyecyo
+
+*.pyc
+*.pyd
+*.SNT
+*.bak
+*.dir
+*.dat
+
+
+# Carpetas a ignorar
+
+/output
+/cache
+/__pycache__
