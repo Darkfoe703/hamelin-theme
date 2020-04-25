@@ -19,7 +19,7 @@ Next steps:
 
 * :doc:`Read the manual <handbook>`
 * `Visit the Nikola website to learn more <https://getnikola.com>`__
-* `See a demo photo gallery <link://gallery/demo>`__
+* `See a demo photo gallery <link://Galerias/demo>`__
 * :doc:`See a demo listing <listings-demo>`
 * :doc:`See a demo of a longer text <dr-nikolas-vendetta>`
 
