@@ -266,6 +266,15 @@ a:hover{
 .w3-padding-small{padding:8px 12px!important;/* original 4px 8px*/}
 .w3-button:hover{color:#000!important;background-color:#07d3ed!important; /*original #ccc*/}
 
+.site-gallery{
+	    padding: 12px;
+	    background-color: #FFF;
+	    box-shadow: 0 0 0 0,0 6px 12px rgba(34, 34, 34, 0.42);
+}
+.gallery-cell{
+	display: inline-block;
+}
+
 
 /* --- Paleta de colores1 (Cyan) --- */
 /*

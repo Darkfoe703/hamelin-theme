@@ -40,7 +40,7 @@
         %if photo_array:
         <div class="mdl-grid mdl-card__supporting-text image-gallery">
             %for image in photo_array:
-                <div class="mdl-card mdl-cell mdl-cell--3-col mdl-shadow--2dp">
+                <div class="mdl-card mdl-cell mdl-cell--3-col mdl-shadow--2dp gallery-cell">
                     <div class="mdl-card__media mdl-color--white">
                         %if image_plugin and image_plugin == 'lightbox':
                         <a href="${image['url']}" data-lightbox="image-gallery"
