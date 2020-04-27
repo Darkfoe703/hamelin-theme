@@ -267,12 +267,17 @@ a:hover{
 .w3-button:hover{color:#000!important;background-color:#07d3ed!important; /*original #ccc*/}
 
 .site-gallery{
-	    padding: 12px;
+	    padding: 50px;
 	    background-color: #FFF;
 	    box-shadow: 0 0 0 0,0 6px 12px rgba(34, 34, 34, 0.42);
 }
 .gallery-cell{
 	display: inline-block;
+	margin: 12px;
+}
+.divisor{
+    border-top-width: 0px;
+	border-top: 1px solid #403B3B;
 }
 
 
