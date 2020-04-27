@@ -1,5 +1,6 @@
 # Tema 'Hámelin' #
 ### (The 'Hamelin' Theme) ###
+![Vista previa](https://i.imgur.com/z4Eh9J6.png)
 
 Tema o plantilla para utilizar con el creador de sitios estáticos [Nikola.](https://getnikola.com/)
 Puedes consultar las fuentes del proyecto [aquí.](https://github.com/getnikola/nikola)
@@ -16,4 +17,4 @@ THEME = "hamelin"
 Es necesario poner la carpeta `themes` en el directorio de desarrollo de nuestro sitio (no en la carpeta `output`).
 
 ### Modificaciones ###
-Las modificaciones de estilos están contenidas en el archivo `custom.css`, disponible en `[mi_sitio/themes/hamelin/assets/css]`
+Las modificaciones de estilos están contenidas en el archivo `custom.css`, disponible en `[mi_sitio]/themes/hamelin/assets/css`
