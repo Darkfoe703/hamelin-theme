@@ -9,7 +9,7 @@ El tema 'Hámelin' combina elementos del tema ['hpstr'](https://github.com/getni
 
 ## Instalación ##
 La instalación de estos temas o plantillas se hace mediante la configuración del archivo `conf.py` del sitio generado con Nikola:
-`
+```python
 # Name of the theme to use.
 THEME = "hamelin"
-`
+```
