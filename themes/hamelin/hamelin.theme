@@ -1,7 +1,16 @@
 [Theme]
 engine = mako
 parent = base
-author = Roberto Alsina, Michael Rose
-author_url = http://ralsina.me/
-based_on = HPSTR for Jekyll <http://mmistakes.github.io/hpstr-jekyll-theme/>
-license = MIT
+author = Marco Romero
+author_url = https://github.com/Darkfoe703
+based_on = HPSTR for Nikola <https://github.com/getnikola/nikola-themes/tree/master/v7/hpstr/>
+license = GNU Public License 3
+tags = bootstrap, hpstr, mako, nikola
+
+[Family]
+family = bootstrap3
+
+[Nikola]
+bootswatch = False
+
+
