@@ -1,0 +1,85 @@
+/* Mis MODS */
+
+body{
+	background-color: #e8e8e8;
+}
+h1, h2, h3, h4, h5{
+	color: #39a8c1;
+}
+a{
+	color: #39a8c1;
+}
+a:visited {
+	color: #4e745c;
+}
+a:hover{
+	color: #4e745c;
+}
+.entry-meta{
+	color: #5e919c;
+}
+.entry-header, .entry-image{
+	border-radius: 0px;
+}
+#post-index article{
+	box-shadow: 0 0 0 0,0 6px 12px rgba(34, 34, 34, 0.42);
+}
+.w3-card, .w3-card-2{
+	box-shadow: 0 0 0 0,0 6px 12px rgba(34, 34, 34, 0.42);
+}
+.w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
+.w3-cell-row:before,.w3-cell-row:after,.w3-clear:after,.w3-clear:before,.w3-bar:before,.w3-bar:after{content:"";display:table;clear:none; /* original:both; */}
+.w3-border-0{border:0!important}.w3-border{border:1px solid #098aa6!important;/* original ##ccc*/}
+.w3-margin-top{margin-top:50px!important;/* original 16px */}
+.w3-padding-small{padding:8px 12px!important;/* original 4px 8px*/}
+.w3-button:hover{color:#000!important;background-color:#07d3ed!important; /*original #ccc*/}
+
+.site-gallery{
+	    padding: 50px;
+	    background-color: #FFF;
+	    box-shadow: 0 0 0 0,0 6px 12px rgba(34, 34, 34, 0.42);
+}
+.gallery-cell{
+	display: inline-block;
+	margin: 12px;
+}
+.divisor{
+    border-top-width: 0px;
+	border-top: 1px solid #403B3B;
+}
+
+
+/* --- Paleta de colores1 (Cyan) --- */
+/*
+Dark Cyan
+#049cb4
+
+Dark Turquoise
+#06b3cb
+
+Medium Turquoise
+#39a8c1
+
+Dark Cyan
+#098aa6
+
+Medium Aquamarine
+#7bbace
+*/
+/* --- Paleta de colores (Verdes) --- */
+/*
+Sienna
+#ab5b3e
+
+Dark Khaki
+#bd9a65
+
+Dark Slate Gray
+#2c4136
+
+Dark Olive Green
+#796649
+
+Dark Slate Gray
+#4e745c
+*/
