@@ -1,7 +1,7 @@
 # Tema 'Hámelin' #
 ### (The 'Hamelin' Theme) ###
 
-Creación del tema 'Hamelin', para utilizar con Nikola.
+Tema o plantilla para utilizar con el creador de sitios estáticos [Nikola.](https://getnikola.com/)
 
 Para más información consultar https://getnikola.com/
 
