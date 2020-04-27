@@ -16,8 +16,8 @@
 /listings
 /galleries
 /Galerias
-#/files
-#/images
-#/pages
-#/posts
+/files
+/images
+/pages
+/posts
 /__pycache__
