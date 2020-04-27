@@ -8,4 +8,8 @@ El tema 'Hámelin' combina elementos del tema ['hpstr'](https://github.com/getni
  y de [w3](https://www.w3schools.com/css/css_rwd_templates.asp).
 
 ## Instalación ##
-La instalación de estos temas o plantillas se hace mediante la configuración del archivo `conf.py`
+La instalación de estos temas o plantillas se hace mediante la configuración del archivo `conf.py` del sitio generado con Nikola:
+`
+# Name of the theme to use.
+THEME = "hamelin"
+`
