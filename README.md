@@ -1,5 +1,5 @@
 # Tema 'Hámelin' #
-### (The 'Hamelin' Theme)###
+### (The 'Hamelin' Theme) ###
 
 Creación del tema 'Hamelin', para utilizar con Nikola.
 
