@@ -18,3 +18,5 @@ Es necesario poner la carpeta `themes` en el directorio de desarrollo de nuestro
 
 ### Modificaciones ###
 Las modificaciones de estilos están contenidas en el archivo `custom.css`, disponible en `[mi_sitio]/themes/hamelin/assets/css`
+
+### [Licencia](https://github.com/Darkfoe703/hamelin-theme/blob/pruebas/LICENSE) ###
