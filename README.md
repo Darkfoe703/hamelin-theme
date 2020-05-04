@@ -14,6 +14,12 @@ La instalación de estos temas o plantillas se hace mediante la configuración d
 # Name of the theme to use.
 THEME = "hamelin"
 ```
+
+Por el momento no está soportado el uso de 'bundles', así que:
+```python
+USE_BUNDLES = False
+```
+
 Es necesario poner la carpeta `themes` en el directorio de desarrollo de nuestro sitio (no en la carpeta `output`).
 
 ### Modificaciones ###
