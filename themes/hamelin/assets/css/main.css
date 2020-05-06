@@ -15,10 +15,7 @@
 *,*:after,*:before{
 	-webkit-box-sizing:border-box;
 	-moz-box-sizing:border-box;
-	box-sizing:border-box;
-	/** --- MODS --- **/
-	border-radius: 3px;}
-	/* --- */
+	box-sizing:border-box;}
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{
 	display:block}
 audio,canvas,video{
@@ -1161,9 +1158,7 @@ header .entry-meta{display:none}
 	-webkit-background-clip:padding-box;
 	-moz-background-clip:padding;
 	background-clip:padding-box}
-/* --- MODS --- */
-.footer-wrapper{*zoom:1;margin:2em auto;text-align:center;color:rgba(85,85,85,0.8);clear: both;/* add */}
-/* --- */
+.footer-wrapper{*zoom:1;margin:2em auto;text-align:center;color:rgba(85,85,85,0.8);}
 .footer-wrapper:before,.footer-wrapper:after{display:table;content:"";line-height:0}
 .footer-wrapper:after{clear:both}.footer-wrapper a{color:rgba(85,85,85,0.8)}
 .socialcount{font-size:16px;font-size:1rem}
@@ -1177,8 +1172,8 @@ header .entry-meta{display:none}
 	margin-right:10px;
 	margin-bottom:20px;
 	padding:8px 20px;
-	display:inline-block;f
-	ont-size:14px;
+	display:inline-block;
+	font-size:14px;
 	font-size:0.875rem;
 	background-color:#fff;
 	color:rgba(34,34,34,0.8);

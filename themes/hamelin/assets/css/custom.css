@@ -10,6 +10,8 @@ a:visited {
 	color: #4e745c;}
 a:hover{
 	color: #4e745c;}
+*,*:after,*:before{
+	border-radius: 3px;}
 .entry-meta{
 	color: #5e919c;}
 .entry-header, .entry-image{
@@ -24,6 +26,7 @@ a:hover{
 .w3-margin-top{margin-top:50px!important;/* original 16px */}
 .w3-padding-small{padding:8px 12px!important;/* original 4px 8px*/}
 .w3-button:hover{color:#000!important;background-color:#06b3cb!important; /*original #ccc*/}
+.footer-wrapper{clear: both;/* add */}
 
 .site-gallery{
 	    padding: 50px;
